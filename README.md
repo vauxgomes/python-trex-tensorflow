@@ -22,3 +22,5 @@ $ python -m pip install -U opencv-python
 $ deactivate
 ```
 
+#### Current progress
+https://www.linkedin.com/feed/update/urn:li:activity:6471976283487244288
